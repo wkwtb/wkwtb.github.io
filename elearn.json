@@ -3,6 +3,6 @@
   "temp_alert_message": "系統維護中，請稍後再試。",
   "normal_license": "false",
   "normal_alert_message": "系統維護中，請稍後再試。",
-  "self_license": "false",
+  "self_license": "true",
   "self_alert_message": "系統維護中，請稍後再試。"
 }
